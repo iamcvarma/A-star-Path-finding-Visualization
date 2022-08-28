@@ -1,0 +1,3 @@
+A* pathfinding algorithm is arguably the best pathfinding algorithm when we have to find the shortest path between two nodes. A* is the golden ticket, or industry standard, that everyone uses. Dijkstra's Algorithm works well to find the shortest path, but it wastes time exploring in directions that aren't promising.
+
+This tool will help visualize how A* algorithm works. It is fully interactive and made using Python Pygame library. Users will be able to design their own maze and run the algorithm to see how it works.
